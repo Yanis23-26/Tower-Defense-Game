@@ -13,6 +13,12 @@
 
 ## Équipe
 
+### Yanis Gherdane
+- **Rôle principal:** Développeur responsable du code lié aux tours et aux fonctions d'attaque.
+    - Implémentation des mécanismes de jeu selon les spécifications.
+    - Tests approfondis des fonctionnalités du jeu.
+    - Optimisation du code pour assurer des performances optimales.
+
 ### Samy
 - **Rôle principal:** Développeur et responsable de l'interface graphique.
     - Implémentation des éléments d'interface graphique.
@@ -26,14 +32,9 @@
     - Tests approfondis des fonctionnalités liées aux monstres.
     - Optimisation du code pour assurer des performances optimales.
 
-### Yanis Gherdane
-- **Rôle principal:** Développeur responsable du code lié aux tours et aux fonctions d'attaque.
-    - Implémentation des mécanismes de jeu selon les spécifications.
-    - Tests approfondis des fonctionnalités du jeu.
-    - Optimisation du code pour assurer des performances optimales.
 
 ### La Gestion
-La gestion du projet s'est faite de manière collaborative entre les membres du groupe.
+La gestion du projet s'est faite de manière collaborative entre les membres du groupe en applicant au mieux une méthodoloogie Agile.
 
 ## Introduction
 Ce dépôt GitHub contient le code source et les artefacts associés à notre projet, une simulation de jeu "Tower Defense" en Java, mettant en œuvre les principes de la programmation orientée objet (POO).
