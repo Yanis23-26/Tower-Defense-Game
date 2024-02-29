@@ -45,7 +45,7 @@ Ce dépôt GitHub contient le code source et les artefacts associés à notre pr
 ## Diagrammes UML
 
 ### Towers
-![UML Towers](Images/UML2_Tower.png "UML Towers")
+![UML Towers](Images/UML2_Tower1.png "UML Towers")
 
 ### Monsters
 ![UML Monsters](Images/UML2_Monster.png "UML Monsters")
